@@ -1,4 +1,4 @@
-##👋 Olá, eu sou José Arruda
+# 👋 Olá, eu sou José Arruda
 
 ### 💻 Desenvolvedor Full Stack
 
