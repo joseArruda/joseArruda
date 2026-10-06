@@ -101,7 +101,7 @@ Meu portfólio pessoal desenvolvido com **Angular e SCSS**, reunindo minha traje
 
 `Angular` `TypeScript` `SCSS` `JavaScript`
 
-🔗 [Acessar portfólio](COLOQUE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
+🔗 [Acessar portfólio](https://portifolioja.vercel.app/)
 
 ---
 
