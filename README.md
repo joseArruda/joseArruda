@@ -22,6 +22,8 @@ Gosto de aprender novas tecnologias por meio de projetos práticos e transformar
 
 🎓 **Pós-graduação:** Desenvolvimento de Aplicações para Dispositivos Móveis — UniBF
 
+🎓 **Pós-graduação:** Desenvolvimento de Sistemas em Java — UniBF - Em andamento
+
 ---
 
 ## 🚀 Tecnologias
